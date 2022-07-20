@@ -1,0 +1,16 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "A simple responsive web application for to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varad Y",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.5"
+  }
+}
